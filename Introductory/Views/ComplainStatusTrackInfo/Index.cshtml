@@ -2,7 +2,19 @@
 	<div class="col-md-12">
 		<div class="card">
 			<div class="card-body">
-				<p class="fw-bolder">Complain Status Track Information</p>
+				<div class="row">
+					<div class="col-md-4">
+						<label class="col-form-label">Complain Status</label>
+						<br />
+						<select class="form-control ddlComplainStatus">
+							
+						</select>
+					</div>
+					<div class="col-md-4">
+						<br />
+						<button class="btn btn-secondary btnSearch mt-3"><i class="fa fa-search"></i> Search</button>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -13,15 +25,17 @@
 					<table class="table table-striped table-hover dtTable">
 						<thead>
 							<tr>
-								<th>ComplainStatusTrackInfoID</th>
-								<th>ComplainInfoID</th>
-								<th>TargetStatusID</th>
+								<th>SN</th>
+								<th>Complain Info ID</th>
+								<th>Complain Status</th>
 								<th>Remarks</th>
-								<th>CreatedBy</th>
-								<th>CreatedDate</th>
+								<th>Created By</th>
+								<th>Created Date</th>
 							</tr>
 						</thead>
-						<tbody class="data-body  dtTableBody"></tbody>
+						<tbody class="data-body  dtTableBody">
+
+						</tbody>
 					</table>
 				</div>
 			</div>
@@ -35,17 +49,26 @@
 
 		$(document).ready(function(){
 			loadComplainStatusTrackInfo();
+			loadComplainStatus();
 		});
 
-		debugger;
+		$(document).on("click", ".btnSearch", function(){
+			loadComplainStatusTrackInfo();
+		});
 
 		function loadComplainStatusTrackInfo(){
+
+			var obj = {
+				complainStatusID : $('.ddlComplainStatus').val() || '0'
+			};
+
 			$.ajax({
-				method: 'get',
+				method: 'post',
 				contentType: "application/json; charset=utf-8",
 				url: "@Url.Action("GetAllData","ComplainStatusTrackInfo")",
+				data: JSON.stringify(obj),
 				beforeSend: function(){
-					$.blockUI();
+					$.blockUI()	
 				},
 				success: function(res){
 					if(res.success){
@@ -57,9 +80,9 @@
 							xyz += '<tr>';
 							xyz += '<td>' + x.complainStatusTrackInfoID + '</td>';
 							xyz += '<td>' + x.complainID + '</td>';
-							xyz += '<td>' + x.complainStatusID + '</td>';
+							xyz += '<td>' + x.complainStatus + '</td>';
 							xyz += '<td>' + x.remarks + '</td>';
-							xyz += '<td>' + x.createdBy + '</td>';
+							xyz += '<td>' + x.created_By + '</td>';
 							xyz += '<td>' + x.createdDate + '</td>';
 							xyz += '</tr>';
 						})
@@ -75,6 +98,38 @@
 				}
 			})
 		}
+
+		function loadComplainStatus(){
+			$.ajax({
+				method: "get",
+				contentType: "application/json; charset=utf-8",
+				url: "@Url.Action("GetAllData", "ComplainStatus")",
+				beforeSend: function(){
+					$.blockUI();
+				},
+				success: function(res){
+
+					if(res.success){
+
+						var xyz = "<option value=0>---Select---</option>";
+
+						var data = res.data;
+
+						$.each(data, function(i, x){
+							xyz += "<option value=" + x.complainStatusID + ">" + x.complainStatusName + "</option>";
+						})
+
+						$(".ddlComplainStatus").html(xyz);
+					}
+
+					debugger;
+				},
+				complete: function() {
+					$.unblockUI();
+				}
+			})
+		}
+
 	</script>
 }
 

@@ -19,5 +19,8 @@ namespace Introductory.Models
 
         [ForeignKey("ComplainStatusID")]
         public virtual ComplainStatus ComplainStatus { get; set; }
+
+        [ForeignKey("CreatedBy")]
+        public virtual Users User { get; set; }
     }
 }

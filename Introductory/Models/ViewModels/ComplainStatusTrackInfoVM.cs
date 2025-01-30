@@ -11,6 +11,8 @@ namespace Introductory.Models.ViewModels
         public string Remarks { get; set; }
         public int CreatedBy { get; set; }
         public string CreatedDate { get; set; }
+        public string Created_By { get; set; }
+        public string ComplainStatus { get; set; }
 
     }
 }

@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "F:\\Introductory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\complaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\complaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\models\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\models\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\models\\viewmodels\\complainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\models\\viewmodels\\complainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\views\\complain\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\views\\complain\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\models\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\models\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\models\\complainstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\models\\complainstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\complainstatustrackinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\complainstatustrackinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\usergroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\usergroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\complainstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\complainstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\models\\viewmodels\\complainstatustrackinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\models\\viewmodels\\complainstatustrackinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|f:\\introductory\\introductory\\models\\complainstatustrackinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AF31D-943D-4F89-8191-E03490D11F62}|Introductory\\Introductory.csproj|solutionrelative:introductory\\models\\complainstatustrackinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +58,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 230,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\Introductory\\Introductory\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Introductory\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\Introductory\\Introductory\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Introductory\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIwBAAAAAAAAAAApwK0BAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T08:13:07.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Introductory\\Controllers\\UsersController.cs",
-              "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Introductory\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCIAAAA0AAAAAAAAAA==",
+              "Title": "ComplainVM.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Models\\ViewModels\\ComplainVM.cs",
+              "RelativeDocumentMoniker": "Introductory\\Models\\ViewModels\\ComplainVM.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Models\\ViewModels\\ComplainVM.cs",
+              "RelativeToolTip": "Introductory\\Models\\ViewModels\\ComplainVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:12:20.221Z",
+              "WhenOpened": "2025-01-30T17:48:33.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Introductory\\Controllers\\BaseController.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Introductory\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:30:57.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComplainStatusController.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\ComplainStatusController.cs",
+              "RelativeDocumentMoniker": "Introductory\\Controllers\\ComplainStatusController.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\ComplainStatusController.cs",
+              "RelativeToolTip": "Introductory\\Controllers\\ComplainStatusController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:30:28.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComplainStatus.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Models\\ComplainStatus.cs",
+              "RelativeDocumentMoniker": "Introductory\\Models\\ComplainStatus.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Models\\ComplainStatus.cs",
+              "RelativeToolTip": "Introductory\\Models\\ComplainStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:28:22.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComplainStatusTrackInfoController.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\ComplainStatusTrackInfoController.cs",
+              "RelativeDocumentMoniker": "Introductory\\Controllers\\ComplainStatusTrackInfoController.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\ComplainStatusTrackInfoController.cs",
+              "RelativeToolTip": "Introductory\\Controllers\\ComplainStatusTrackInfoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:04:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComplainStatusTrackInfo.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Models\\ComplainStatusTrackInfo.cs",
+              "RelativeDocumentMoniker": "Introductory\\Models\\ComplainStatusTrackInfo.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Models\\ComplainStatusTrackInfo.cs",
+              "RelativeToolTip": "Introductory\\Models\\ComplainStatusTrackInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:00:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ComplainController.cs",
               "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\ComplainController.cs",
               "RelativeDocumentMoniker": "Introductory\\Controllers\\ComplainController.cs",
               "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\ComplainController.cs",
               "RelativeToolTip": "Introductory\\Controllers\\ComplainController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAArwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T18:10:31.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Introductory\\Introductory\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Introductory\\Views\\Users\\Index.cshtml",
-              "ToolTip": "F:\\Introductory\\Introductory\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Introductory\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAKUAAAAAAAAAAAApwLMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T17:49:55.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Introductory\\Introductory\\Views\\Complain\\Index.cshtml",
-              "RelativeDocumentMoniker": "Introductory\\Views\\Complain\\Index.cshtml",
-              "ToolTip": "F:\\Introductory\\Introductory\\Views\\Complain\\Index.cshtml",
-              "RelativeToolTip": "Introductory\\Views\\Complain\\Index.cshtml",
-              "ViewState": "AgIAANsAAAAAAAAAAAAAANgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T11:20:26.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Complain.cs",
               "DocumentMoniker": "F:\\Introductory\\Introductory\\Models\\Complain.cs",
               "RelativeDocumentMoniker": "Introductory\\Models\\Complain.cs",
               "ToolTip": "F:\\Introductory\\Introductory\\Models\\Complain.cs",
               "RelativeToolTip": "Introductory\\Models\\Complain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T07:34:16.583Z"
+              "WhenOpened": "2025-01-24T07:34:16.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Introductory\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Introductory\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:26:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Views\\Complain\\Index.cshtml",
+              "RelativeDocumentMoniker": "Introductory\\Views\\Complain\\Index.cshtml",
+              "ToolTip": "F:\\Introductory\\Introductory\\Views\\Complain\\Index.cshtml",
+              "RelativeToolTip": "Introductory\\Views\\Complain\\Index.cshtml",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAKcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T17:38:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserGroupController.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Controllers\\UserGroupController.cs",
+              "RelativeDocumentMoniker": "Introductory\\Controllers\\UserGroupController.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Controllers\\UserGroupController.cs",
+              "RelativeToolTip": "Introductory\\Controllers\\UserGroupController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:39:10.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComplainStatusTrackInfoVM.cs",
+              "DocumentMoniker": "F:\\Introductory\\Introductory\\Models\\ViewModels\\ComplainStatusTrackInfoVM.cs",
+              "RelativeDocumentMoniker": "Introductory\\Models\\ViewModels\\ComplainStatusTrackInfoVM.cs",
+              "ToolTip": "F:\\Introductory\\Introductory\\Models\\ViewModels\\ComplainStatusTrackInfoVM.cs",
+              "RelativeToolTip": "Introductory\\Models\\ViewModels\\ComplainStatusTrackInfoVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:59:29.988Z"
             }
           ]
         }

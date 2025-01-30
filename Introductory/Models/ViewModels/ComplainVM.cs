@@ -5,7 +5,7 @@ namespace Introductory.Models.ViewModels
     public class ComplainVM
     {
         public int ComplainId { get; set; }
-        public string FullNme { get; set; }
+        public string FullName { get; set; }
         public string email { get; set; }
         public string ContactNo { get; set; }
         public string Statement { get; set; }

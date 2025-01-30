@@ -1,5 +1,6 @@
 ﻿using Introductory.DAO;
 using Introductory.Helper;
+using Introductory.Models;
 using Introductory.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,11 +20,14 @@ namespace Introductory.Controllers
             return View();
         }
 
-        [HttpGet]
-        public JsonResult GetAllData()
+        [HttpPost]
+        public JsonResult GetAllData([FromBody] ComplainStatusVM vm)
         {
             List<ComplainStatusTrackInfoVM> dbdata = _applicationDBContext
                                                      .ComplainStatusTrackInfo
+                                                     .Where( x => 
+                                                                (vm.ComplainStatusID == x.ComplainStatusID || vm.ComplainStatusID == 0)
+                                                     )
                                                      .Select(x => new ComplainStatusTrackInfoVM
                                                      {
                                                          ComplainStatusTrackInfoID = x.ComplainStatusTrackInfoID.ToInt32(),
@@ -31,14 +35,16 @@ namespace Introductory.Controllers
                                                          ComplainStatusID = x.ComplainStatusID.ToInt32(),
                                                          Remarks = x.Remarks.ToText(),
                                                          CreatedBy = x.CreatedBy.ToInt32(),
-                                                         CreatedDate = x.CreatedDate.ToNepaliDate().ToText()
+                                                         CreatedDate = x.CreatedDate.ToNepaliDate().ToText(),
+                                                         Created_By = x.User.Username.ToText(),
+                                                         ComplainStatus = x.ComplainStatus.ComplainStatusName.ToText()
                                                      })
                                                      .ToList();
 
             return Json(new
             {
                 Success = true,
-                data = dbdata
+                Data = dbdata
             });
         }
     }

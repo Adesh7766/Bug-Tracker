@@ -444,3 +444,4 @@ F:\Introductory\Introductory\obj\Debug\net8.0\refint\Introductory.dll
 F:\Introductory\Introductory\obj\Debug\net8.0\Introductory.pdb
 F:\Introductory\Introductory\obj\Debug\net8.0\Introductory.genruntimeconfig.cache
 F:\Introductory\Introductory\obj\Debug\net8.0\ref\Introductory.dll
+F:\Introductory\Introductory\obj\Debug\net8.0\Introductory.sourcelink.json
