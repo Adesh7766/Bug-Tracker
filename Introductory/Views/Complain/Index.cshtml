@@ -1,0 +1,236 @@
+﻿
+<div class="row mt-2">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col col-md-12">
+                <div class="card p-3 mb-2 bg-light text-dark">
+                    <div class="card-body p-3 mb-2 bg-light text-dark">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <label>Full Name</label>
+                                <input type="text" class="form-control txtFilterFullName" />
+                            </div>
+                            <div class="col-md-3">
+                                <label>Contact</label>
+                                <input type="text" class="form-control txtFilterContact" />
+                            </div>
+                            <div class="col-md-3">
+                                <br />
+                                <button class="btn btn-secondary btnSearch"><i class="fa fa-search"></i> Search</button>
+                                <button class="btn btn-secondary btnNew"><i class="fa fa-plus"></i> New</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="col col-md-12 mt-2">
+                <div class="card">
+                    <div class="card-body">
+                        <table class="table table-hover table-striped dataTable">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Full Name</th>
+                                    <th>email</th>
+                                    <th>Statement</th>
+                                    <th>Issue Date</th>
+                                    <th>Complain Type</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody class="data-list">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btnClose" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card text-bg-info bg-opacity-50">
+                                    <div class="card-body text-bg-info bg-opacity-50">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                Full Name
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control txtFullName" />
+                                            </div>
+                                        </div>
+                                        <div class="row mt-2">
+                                            <div class="col-md-4">
+                                                email
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control  txtemail" />
+                                            </div>
+                                        </div>
+                                        <div class="row mt-2">
+                                            <div class="col-md-4">
+                                                Contact No.
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control txtContactNo" />
+                                            </div>
+                                        </div>
+                                        <div class="row mt-2">
+                                            <div class="col-md-4">
+                                                Statement
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control txtStatement" />
+                                            </div>
+                                        </div>
+                                        <div class="row mt-2">
+                                            <div class="col-md-4">
+                                                Address
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control txtAddress" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card text-bg-info bg-opacity-50">
+                                    <div class="card-body text-bg-info bg-opacity-50">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                Complain Type
+                                            </div>
+                                            <div class="col-md-8">
+                                                <select class="form-control ddlComplainType">
+
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-2">
+                                            <div class="col-md-4">
+                                                Issue Date
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control  txtIssueDate" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary btnSave">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).on("click",".btnNew", function(){
+            $("#exampleModal").modal('show')
+        })
+
+        $(document).on("click", ".btnClose", function(){
+            $("#exampleModal").modal("hide")
+        })
+
+        $(document).on("click", ".btnSave", function(){
+            var obj = {
+                fullname = $(".txtFullName").val(),
+                email = $(".txtemail").val(),
+                contactNo = $(".txtContactNo").val(),
+                statement = $(".txtStatement").val(),
+                address = $(".txtAddress").val(),
+                issueDate = $(".txtIssueDate"),
+                complainTypeId = $(".ddlComplainType").val()
+            }
+
+            if(obj.fullname == ""){
+                 $(".txtFullName").focus()
+                    toastr["error"]("Enter Valid Full Name", "Error")
+            }
+            else if(obj.email == ""){
+                 $(".txtemail").focus()
+                    toastr["error"]("Enter Valid Email", "Error")
+            }
+            else if(obj.contactNo == ""){
+                 $(".txtContactNo").focus()
+                    toastr["error"]("Enter Valid Contact Number", "Error")
+            }
+            else if(obj.statement == ""){
+                 $(".txtStatement").focus()
+                    toastr["error"]("Enter Valid Statement", "Error")
+            }
+            else if(obj.issueDate == ""){
+                 $(".txtIssueDate").focus()
+                    toastr["error"]("Enter Valid Issue Date", "Error")
+            }
+            else if(obj.address == ""){
+                 $(".txtAddress").focus()
+                    toastr["error"]("Enter Valid Address", "Error")
+            }
+            else if(obj.complainTypeId == 0){
+                 $(".txtComplainTypeId").focus()
+                    toastr["error"]("Provide a complain type", "Error")
+            }
+            else{
+                $.ajax({
+                    method: "post",
+                    contentType: "application/json; charset=utf-8",
+                    URL: "@Url.Action("SaveComplain","Complain")",
+                    data: JSON.stringify(obj),
+                    beforeSend: function() {
+                        $.blockUI();
+                    },
+                    success: function(res){
+                        if(res.success){
+                            $('#exampleModal').modal('hide')
+                            toastr["success"]("User Added successfully", "success")
+                            clearForm();
+                            loadData();
+                        }
+                        else
+                        {
+                            toastr["error"](res.message, "Error")
+                            clearForm();
+
+                        }
+                    },
+                    complete: function(){
+                        $.unblockUI();
+                    },
+                    error: function(err){
+                        console.log(err);
+                        alert('Error Occured!!')
+                    }
+                })
+            }
+        })
+    </script>
+}
+

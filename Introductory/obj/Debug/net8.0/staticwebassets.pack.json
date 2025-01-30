@@ -1,0 +1,2697 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Introductory\\Introductory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Introductory.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Introductory.2tf4vyieji.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\calendar-blue.gif",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\calendar-blue.gif"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\calendar-green.gif",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\calendar-green.gif"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\calendar.gif",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\calendar.gif"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.min.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.nepali-ne.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.nepali-ne.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.nepali.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.nepali.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.nepali.min.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.nepali.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.css",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.ext.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.ext.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.ext.min.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.ext.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.min.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.picker.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.plus.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.plus.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.plus.min.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.calendars.plus.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.plugin.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\Plugins\\keithwood_calendarpick\\jquery.plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Plugins\\keithwood_calendarpick\\jquery.plugin.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-icon.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\bg-profile.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-profile.jpeg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\bg-reset-cover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-reset-cover.jpeg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\bg-sign-in-basic.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-sign-in-basic.jpeg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\bg-sign-up-cover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-sign-up-cover.jpeg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bruce-mars.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-decor-1.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-decor-2.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-decor-3.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\home-decor-4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-decor-4.jpeg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ivana-square.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-ct-dark.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-ct.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\mastercard.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\visa.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\marie.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\github.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\images\\team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-5.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\illustrations\\rocket-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-dark.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables-dark.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\jasmine.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\jasmine.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\register.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\register.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\runner.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\runner.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\base\\borders.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\base\\borders.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\base\\boxShadows.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\base\\boxShadows.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\base\\breakpoints.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\base\\breakpoints.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\base\\colors.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\base\\colors.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\base\\globals.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\base\\globals.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\base\\typography.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\base\\typography.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\appBar.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\appBar.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\avatar.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\avatar.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\breadcrumbs.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\breadcrumbs.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\buttonBase.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\buttonBase.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\button\\contained.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\button\\contained.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\button\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\button\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\button\\outlined.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\button\\outlined.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\button\\root.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\button\\root.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\button\\text.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\button\\text.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\card\\cardContent.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\card\\cardContent.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\card\\cardMedia.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\card\\cardMedia.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\card\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\card\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\container.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\container.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\dialog\\dialogActions.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\dialog\\dialogActions.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\dialog\\dialogContent.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\dialog\\dialogContent.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\dialog\\dialogContentText.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\dialog\\dialogContentText.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\dialog\\dialogTitle.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\dialog\\dialogTitle.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\dialog\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\dialog\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\divider.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\divider.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\autocomplete.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\autocomplete.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\checkbox.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\checkbox.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\formControlLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\formControlLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\formLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\formLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\input.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\input.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\inputLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\inputLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\inputOutlined.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\inputOutlined.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\radio.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\radio.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\select.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\select.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\switchButton.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\switchButton.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\form\\textField.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\form\\textField.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\icon.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\icon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\iconButton.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\iconButton.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\linearProgress.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\linearProgress.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\link.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\link.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\list\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\list\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\list\\listItem.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\list\\listItem.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\list\\listItemText.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\list\\listItemText.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\menu\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\menu\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\menu\\menuItem.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\menu\\menuItem.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\popover.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\popover.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\sidenav.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\sidenav.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\slider.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\slider.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\stepper\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\stepper\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\stepper\\step.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\stepper\\step.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\stepper\\stepConnector.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\stepper\\stepConnector.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\stepper\\stepIcon.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\stepper\\stepIcon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\stepper\\stepLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\stepper\\stepLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\svgIcon.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\svgIcon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\table\\tableCell.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\table\\tableCell.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\table\\tableContainer.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\table\\tableContainer.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\table\\tableHead.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\table\\tableHead.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\tabs\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\tabs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\tabs\\tab.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\tabs\\tab.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\components\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\components\\tooltip.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\functions\\boxShadow.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\functions\\boxShadow.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\functions\\gradientChartLine.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\functions\\gradientChartLine.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\functions\\hexToRgb.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\functions\\hexToRgb.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\functions\\linearGradient.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\functions\\linearGradient.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\functions\\pxToRem.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\functions\\pxToRem.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\functions\\rgba.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\functions\\rgba.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme-dark\\theme-rtl.js",
+      "PackagePath": "staticwebassets\\assets\\theme-dark\\theme-rtl.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\base\\borders.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\base\\borders.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\base\\boxShadows.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\base\\boxShadows.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\base\\breakpoints.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\base\\breakpoints.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\base\\colors.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\base\\colors.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\base\\globals.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\base\\globals.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\base\\typography.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\base\\typography.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\appBar.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\appBar.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\avatar.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\avatar.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\breadcrumbs.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\breadcrumbs.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\buttonBase.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\buttonBase.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\button\\contained.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\button\\contained.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\button\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\button\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\button\\outlined.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\button\\outlined.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\button\\root.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\button\\root.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\button\\text.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\button\\text.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\card\\cardContent.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\card\\cardContent.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\card\\cardMedia.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\card\\cardMedia.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\card\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\card\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\container.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\container.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\dialog\\dialogActions.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\dialog\\dialogActions.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\dialog\\dialogContent.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\dialog\\dialogContent.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\dialog\\dialogContentText.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\dialog\\dialogContentText.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\dialog\\dialogTitle.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\dialog\\dialogTitle.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\dialog\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\dialog\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\divider.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\divider.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\flatpickr.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\flatpickr.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\autocomplete.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\autocomplete.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\checkbox.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\checkbox.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\formControlLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\formControlLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\formLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\formLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\input.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\input.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\inputLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\inputLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\inputOutlined.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\inputOutlined.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\radio.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\radio.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\select.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\select.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\switchButton.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\switchButton.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\form\\textField.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\form\\textField.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\icon.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\icon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\iconButton.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\iconButton.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\linearProgress.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\linearProgress.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\link.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\link.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\list\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\list\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\list\\listItem.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\list\\listItem.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\list\\listItemText.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\list\\listItemText.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\menu\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\menu\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\menu\\menuItem.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\menu\\menuItem.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\popover.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\popover.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\sidenav.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\sidenav.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\slider.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\slider.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\stepper\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\stepper\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\stepper\\step.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\stepper\\step.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\stepper\\stepConnector.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\stepper\\stepConnector.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\stepper\\stepIcon.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\stepper\\stepIcon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\stepper\\stepLabel.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\stepper\\stepLabel.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\svgIcon.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\svgIcon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\table\\tableCell.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\table\\tableCell.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\table\\tableContainer.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\table\\tableContainer.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\table\\tableHead.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\table\\tableHead.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\tabs\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\tabs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\tabs\\tab.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\tabs\\tab.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\components\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\components\\tooltip.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\functions\\boxShadow.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\functions\\boxShadow.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\functions\\gradientChartLine.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\functions\\gradientChartLine.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\functions\\hexToRgb.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\functions\\hexToRgb.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\functions\\linearGradient.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\functions\\linearGradient.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\functions\\pxToRem.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\functions\\pxToRem.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\functions\\rgba.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\functions\\rgba.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\index.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\assets\\theme\\theme-rtl.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\theme-rtl.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDAlert\\MDAlertCloseIcon.js",
+      "PackagePath": "staticwebassets\\components\\MDAlert\\MDAlertCloseIcon.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDAlert\\MDAlertRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDAlert\\MDAlertRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDAlert\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDAlert\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDAvatar\\MDAvatarRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDAvatar\\MDAvatarRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDAvatar\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDAvatar\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDBadge\\MDBadgeRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDBadge\\MDBadgeRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDBadge\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDBadge\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDBox\\MDBoxRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDBox\\MDBoxRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDBox\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDBox\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDButton\\MDButtonRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDButton\\MDButtonRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDButton\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDButton\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDInput\\MDInputRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDInput\\MDInputRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDInput\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDInput\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDPagination\\MDPaginationItemRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDPagination\\MDPaginationItemRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDPagination\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDPagination\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDProgress\\MDProgressRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDProgress\\MDProgressRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDProgress\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDProgress\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDSnackbar\\MDSnackbarIconRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDSnackbar\\MDSnackbarIconRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDSnackbar\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDSnackbar\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDTypography\\MDTypographyRoot.js",
+      "PackagePath": "staticwebassets\\components\\MDTypography\\MDTypographyRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\components\\MDTypography\\index.js",
+      "PackagePath": "staticwebassets\\components\\MDTypography\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Breadcrumbs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Breadcrumbs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Cards\\BlogCards\\SimpleBlogCard\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Cards\\BlogCards\\SimpleBlogCard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Cards\\InfoCards\\DefaultInfoCard\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Cards\\InfoCards\\DefaultInfoCard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Cards\\InfoCards\\ProfileInfoCard\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Cards\\InfoCards\\ProfileInfoCard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Cards\\MasterCard\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Cards\\MasterCard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Cards\\ProjectCards\\DefaultProjectCard\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Cards\\ProjectCards\\DefaultProjectCard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Cards\\StatisticsCards\\ComplexStatisticsCard\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Cards\\StatisticsCards\\ComplexStatisticsCard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BarCharts\\HorizontalBarChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BarCharts\\HorizontalBarChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BarCharts\\HorizontalBarChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BarCharts\\HorizontalBarChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BarCharts\\ReportsBarChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BarCharts\\ReportsBarChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BarCharts\\ReportsBarChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BarCharts\\ReportsBarChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BarCharts\\VerticalBarChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BarCharts\\VerticalBarChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BarCharts\\VerticalBarChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BarCharts\\VerticalBarChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BubbleChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BubbleChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\BubbleChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\BubbleChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\DoughnutCharts\\DefaultDoughnutChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\DoughnutCharts\\DefaultDoughnutChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\DoughnutCharts\\DefaultDoughnutChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\DoughnutCharts\\DefaultDoughnutChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\DefaultLineChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\DefaultLineChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\DefaultLineChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\DefaultLineChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\GradientLineChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\GradientLineChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\GradientLineChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\GradientLineChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\ProgressLineChart\\config\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\ProgressLineChart\\config\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\ProgressLineChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\ProgressLineChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\ReportsLineChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\ReportsLineChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\LineCharts\\ReportsLineChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\LineCharts\\ReportsLineChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\MixedChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\MixedChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\MixedChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\MixedChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\PieChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\PieChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\PieChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\PieChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\PolarChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\PolarChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\PolarChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\PolarChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\RadarChart\\configs\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\RadarChart\\configs\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Charts\\RadarChart\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Charts\\RadarChart\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Configurator\\ConfiguratorRoot.js",
+      "PackagePath": "staticwebassets\\examples\\Configurator\\ConfiguratorRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Configurator\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Configurator\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Footer\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Footer\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Items\\NotificationItem\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Items\\NotificationItem\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Items\\NotificationItem\\styles.js",
+      "PackagePath": "staticwebassets\\examples\\Items\\NotificationItem\\styles.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\LayoutContainers\\DashboardLayout\\index.js",
+      "PackagePath": "staticwebassets\\examples\\LayoutContainers\\DashboardLayout\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\LayoutContainers\\PageLayout\\index.js",
+      "PackagePath": "staticwebassets\\examples\\LayoutContainers\\PageLayout\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Lists\\ProfilesList\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Lists\\ProfilesList\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Navbars\\DashboardNavbar\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Navbars\\DashboardNavbar\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Navbars\\DashboardNavbar\\styles.js",
+      "PackagePath": "staticwebassets\\examples\\Navbars\\DashboardNavbar\\styles.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Navbars\\DefaultNavbar\\DefaultNavbarLink.js",
+      "PackagePath": "staticwebassets\\examples\\Navbars\\DefaultNavbar\\DefaultNavbarLink.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Navbars\\DefaultNavbar\\DefaultNavbarMobile.js",
+      "PackagePath": "staticwebassets\\examples\\Navbars\\DefaultNavbar\\DefaultNavbarMobile.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Navbars\\DefaultNavbar\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Navbars\\DefaultNavbar\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Sidenav\\SidenavCollapse.js",
+      "PackagePath": "staticwebassets\\examples\\Sidenav\\SidenavCollapse.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Sidenav\\SidenavRoot.js",
+      "PackagePath": "staticwebassets\\examples\\Sidenav\\SidenavRoot.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Sidenav\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Sidenav\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Sidenav\\styles\\sidenav.js",
+      "PackagePath": "staticwebassets\\examples\\Sidenav\\styles\\sidenav.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Sidenav\\styles\\sidenavCollapse.js",
+      "PackagePath": "staticwebassets\\examples\\Sidenav\\styles\\sidenavCollapse.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Tables\\DataTable\\DataTableBodyCell.js",
+      "PackagePath": "staticwebassets\\examples\\Tables\\DataTable\\DataTableBodyCell.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Tables\\DataTable\\DataTableHeadCell.js",
+      "PackagePath": "staticwebassets\\examples\\Tables\\DataTable\\DataTableHeadCell.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Tables\\DataTable\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Tables\\DataTable\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Timeline\\TimelineItem\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Timeline\\TimelineItem\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Timeline\\TimelineItem\\styles.js",
+      "PackagePath": "staticwebassets\\examples\\Timeline\\TimelineItem\\styles.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Timeline\\TimelineList\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Timeline\\TimelineList\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\examples\\Timeline\\context\\index.js",
+      "PackagePath": "staticwebassets\\examples\\Timeline\\context\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\js\\BlockUI.js",
+      "PackagePath": "staticwebassets\\js\\BlockUI.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\authentication\\components\\BasicLayout\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\authentication\\components\\BasicLayout\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\authentication\\components\\CoverLayout\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\authentication\\components\\CoverLayout\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\authentication\\components\\Footer\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\authentication\\components\\Footer\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\authentication\\reset-password\\cover\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\authentication\\reset-password\\cover\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\authentication\\sign-in\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\authentication\\sign-in\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\authentication\\sign-up\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\authentication\\sign-up\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\Bill\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\Bill\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\BillingInformation\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\BillingInformation\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\Invoice\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\Invoice\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\Invoices\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\Invoices\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\PaymentMethod\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\PaymentMethod\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\Transaction\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\Transaction\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\components\\Transactions\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\components\\Transactions\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\billing\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\billing\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\dashboard\\components\\OrdersOverview\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\dashboard\\components\\OrdersOverview\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\dashboard\\components\\Projects\\data\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\dashboard\\components\\Projects\\data\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\dashboard\\components\\Projects\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\dashboard\\components\\Projects\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\dashboard\\data\\reportsBarChartData.js",
+      "PackagePath": "staticwebassets\\layouts\\dashboard\\data\\reportsBarChartData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\dashboard\\data\\reportsLineChartData.js",
+      "PackagePath": "staticwebassets\\layouts\\dashboard\\data\\reportsLineChartData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\dashboard\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\dashboard\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\notifications\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\notifications\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\profile\\components\\Header\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\profile\\components\\Header\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\profile\\components\\PlatformSettings\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\profile\\components\\PlatformSettings\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\profile\\data\\profilesListData.js",
+      "PackagePath": "staticwebassets\\layouts\\profile\\data\\profilesListData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\profile\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\profile\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\rtl\\components\\OrdersOverview\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\rtl\\components\\OrdersOverview\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\rtl\\components\\Projects\\data\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\rtl\\components\\Projects\\data\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\rtl\\components\\Projects\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\rtl\\components\\Projects\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\rtl\\data\\reportsBarChartData.js",
+      "PackagePath": "staticwebassets\\layouts\\rtl\\data\\reportsBarChartData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\rtl\\data\\reportsLineChartData.js",
+      "PackagePath": "staticwebassets\\layouts\\rtl\\data\\reportsLineChartData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\rtl\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\rtl\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\tables\\data\\authorsTableData.js",
+      "PackagePath": "staticwebassets\\layouts\\tables\\data\\authorsTableData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\tables\\data\\projectsTableData.js",
+      "PackagePath": "staticwebassets\\layouts\\tables\\data\\projectsTableData.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\layouts\\tables\\index.js",
+      "PackagePath": "staticwebassets\\layouts\\tables\\index.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Introductory\\Introductory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Introductory.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Introductory.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Introductory.props",
+      "PackagePath": "build\\Introductory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Introductory.props",
+      "PackagePath": "buildMultiTargeting\\Introductory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Introductory.props",
+      "PackagePath": "buildTransitive\\Introductory.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
