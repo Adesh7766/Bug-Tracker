@@ -17,7 +17,7 @@
                             <div class="col-md-3">
                                 <br />
                                 <button class="btn btn-secondary btnSearch"><i class="fa fa-search"></i> Search</button>
-                                <button class="btn btn-secondary btnNew"><i class="fa fa-plus"></i> New</button>
+                                <button class="btn btn-success btnNew"><i class="fa fa-plus"></i> New</button>
                             </div>
                         </div>
                     </div>
@@ -122,6 +122,7 @@
                                             </div>
                                             <div class="col-md-8">
                                                 <select class="form-control ddlComplainType">
+                                                    <option value="0">--Select--</option>
                                                     <option value ="1">Finance</option>
                                                     <option value ="2">Tech</option>
                                                 </select>
@@ -132,7 +133,7 @@
                                                 Issue Date
                                             </div>
                                             <div class="col-md-8">
-                                                <input type="text" class="form-control  txtIssueDate" />
+                                                <input type="text" class="form-control txtIssueDate nepdate-picker" />  
                                             </div>
                                         </div>
                                     </div>
@@ -160,9 +161,13 @@
             $("#exampleModal").modal("hide")
         })
 
-        // $(document).on("click",".btnCancel", function() {
-        //     clearForm();
-        // })
+        $(document).on("click",".btnCancel", function() {
+            var userResponse = confirm("Are you sure you want to cancel?");
+            if(userResponse)
+            {
+                clearForm();
+            }
+        })
 
         $(document).on("click", ".btnSave", function(){
             var obj = {
@@ -171,7 +176,7 @@
                 contactNo : $(".txtContactNo").val(),
                 statement : $(".txtStatement").val(),
                 address : $(".txtAddress").val(),
-                issueDate : $(".txtIssueDate"),
+                issueDate : $(".txtIssueDate").val(),
                 complainTypeId : $(".ddlComplainType").val()
             }
 
@@ -207,7 +212,7 @@
                 $.ajax({
                     method: "post",
                     contentType: "application/json; charset=utf-8",
-                    URL: "@Url.Action("SaveComplain","Complain")",
+                    url: "@Url.Action("SaveComplain","Complain")",
                     data: JSON.stringify(obj),
                     beforeSend: function() {
                         $.blockUI();
@@ -236,6 +241,16 @@
                 })
             }
         })
+
+        function clearForm(){
+            $(".txtFullName").val("");
+            $(".txtemail").val("");
+            $(".txtContactNo").val("");
+            $(".txtStatement").val("");
+            $(".txtAddress").val("");
+            $(".txtIssueDate").val("");
+            $(".ddlComplainType").val(0);
+        }
     </script>
 }
 
