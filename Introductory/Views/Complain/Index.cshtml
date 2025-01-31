@@ -153,6 +153,10 @@
 
 @section Scripts{
     <script>
+        $(document).ready(function() {
+            loadAllComplain();
+        })
+
         $(document).on("click",".btnNew", function(){
             $("#exampleModal").modal('show')
         })
@@ -250,6 +254,45 @@
             $(".txtAddress").val("");
             $(".txtIssueDate").val("");
             $(".ddlComplainType").val(0);
+        }
+
+        function loadAllComplain(){
+            $.ajax({
+                method: "get",
+                contentType: "application/json; charset=utf-8",
+                url: "@Url.Action("GetAllData","Complain")",
+                beforeSend: function() {
+                    $.blockUI();
+                },
+                success: function(res){
+                    if(res.success)
+                    {
+                        var xyz = "";
+
+                        var data = res.data;
+
+                        $.each(data, function(i, x){
+                            xyz +=  '<tr>'
+                            xyz +=  '<td>' + x.complainId + '</td>';
+                            xyz +=  '<td>' + x.fullName + '</td>';
+                            xyz +=  '<td>' + x.email + '</td>';
+                            xyz +=  '<td>' + x.statement + '</td>';
+                            xyz +=  '<td>' + x.issueDate + '</td>';
+                            xyz +=  '<td>' + x.complainTypeName + '</td>';
+                            xyz +=  '<td><button type="button" class="btn btn-warning sm btnEdit me-2" data-key="' + x.complainID + '"><i class="fa fa-edit"></i> Edit</button><button type="button" class="btn btn-danger btnDelete" data-key="' + x.complainID + '"><i class="fa fa-trash"></i> Delete</button></td>';
+                            xyz +=  '</tr>';
+                        })
+
+                        $(".data-list").html(xyz);
+                    }
+                    else {
+                        toastr["error"](res.message, "ERROR")
+                    }
+                },
+                complete: function() {
+                    $.unblockUI();
+                }
+            })
         }
     </script>
 }

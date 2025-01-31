@@ -20,6 +20,28 @@ namespace Introductory.Controllers
             return View();
         }
 
+        public JsonResult GetAllData()
+        {
+            List<ComplainVM> dbData = _applicationDBContext
+                                        .Complain
+                                        .Select(x => new ComplainVM
+                                        {
+                                            ComplainId = x.ComplainId.ToInt32(),
+                                            FullName = x.FullName.ToText(),
+                                            email = x.email.ToText(),
+                                            Statement = x.Statement.ToText(),
+                                            IssueDate = x.IssueDate.ToNepaliDate(),
+                                            ComplainTypeName = x.ComplainType.ComplainTypeName.ToText()
+                                        })
+                                        .ToList();
+
+            return Json(new
+            {
+                Success = true,
+                Data = dbData
+            });
+        }
+
 
         [HttpPost]
         public JsonResult SaveComplain([FromBody] ComplainVM vm)

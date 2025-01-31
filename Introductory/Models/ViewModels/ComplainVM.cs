@@ -14,5 +14,6 @@ namespace Introductory.Models.ViewModels
         public string IssueDate { get; set; }
         public string CreatedDate { get; set; }
         public int ComplainTypeId { get; set; }
+        public string ComplainTypeName { get; set; }
     }
 }
