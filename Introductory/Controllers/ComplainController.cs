@@ -3,6 +3,7 @@ using Introductory.Helper;
 using Introductory.Models;
 using Introductory.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Introductory.Controllers
 {
@@ -13,6 +14,55 @@ namespace Introductory.Controllers
         public ComplainController(ApplicationDBContext applicationDBContext)
         {
             _applicationDBContext = applicationDBContext;
+        }
+
+        [HttpPost]
+        public JsonResult UpdateStatus([FromBody] ComplainStatusTrackInfoVM vm)
+        {
+            if (vm.ComplainStatusID == 0)
+            {
+                return Json(new
+                {
+                    Success = true,
+                    Message = "Please select a Complain Status"
+                });
+            }
+            else if (string.IsNullOrEmpty(vm.Remarks))
+            {
+                return Json(new
+                {
+                    Success = false,
+                    Message = "Please provide some remarks."
+                });
+            }
+            else if (vm.ComplainID == 0)
+            {
+                return Json(new
+                {
+                    Success = false,
+                    Message = "Please select a valid complain to update."
+                });
+            }
+            else
+            {
+                ComplainStatusTrackInfo newStatus = new ComplainStatusTrackInfo
+                {
+                    ComplainStatusID = vm.ComplainStatusID,
+                    ComplainID = vm.ComplainID,
+                    Remarks = vm.Remarks,
+                    CreatedBy = int.Parse(HttpContext.Session.GetString("USER_ID")),
+                    CreatedDate = DateTime.Now
+                };
+
+                _applicationDBContext.Add(newStatus);
+                _applicationDBContext.SaveChanges();
+
+                return Json(new
+                {
+                    Success = true,
+                    Message = "Complain Status updated successfully."
+                });
+            }
         }
 
         public IActionResult Index()

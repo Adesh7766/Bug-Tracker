@@ -10,5 +10,6 @@ namespace Introductory.Models.ViewModels
         public bool IsActive { get; set; }
         public string CreatedBy { get; set; }
         public string CreatedDate { get; set; }
+        public string Created_By { get; set; }
     }
 }

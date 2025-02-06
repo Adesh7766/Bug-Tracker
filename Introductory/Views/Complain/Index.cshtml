@@ -151,10 +151,52 @@
     </div>
 </div>
 
+<!-- Modal -->
+<div class="modal fade" id="mdlSetupForStatus" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Complain </h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-3">Status</div>
+                                    <div class="col-md-9">
+                                        <select class="form-control ddlComplainStatus">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-md-3">Remarks</div>
+                                    <div class="col-md-9">
+                                        <input type="text" class="form-control txtRemarks">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <input type="hidden" class="UpdatehdnId" value=0 />
+                <button type="button" class="btn btn-secondary btnUpdateStatusClose">Close</button>
+                <button type="button" class="btn btn-primary btnUpdateStatusSave">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 @section Scripts{
     <script>
         $(document).ready(function() {
             loadAllComplain();
+            loadComplainStatus();
         })
 
         $(document).on("click",".btnNew", function(){
@@ -226,7 +268,7 @@
                             $('#exampleModal').modal('hide')
                             toastr["success"]("User Added successfully", "success")
                             clearForm();
-                            loadData();
+                            loadAllComplain()
                         }
                         else
                         {
@@ -266,7 +308,7 @@
                 },
                 success: function(res){
                     if(res.success)
-                    {
+                    {   
                         var xyz = "";
 
                         var data = res.data;
@@ -279,11 +321,13 @@
                             xyz +=  '<td>' + x.statement + '</td>';
                             xyz +=  '<td>' + x.issueDate + '</td>';
                             xyz +=  '<td>' + x.complainTypeName + '</td>';
-                            xyz +=  '<td><button type="button" class="btn btn-warning sm btnEdit me-2" data-key="' + x.complainID + '"><i class="fa fa-edit"></i> Edit</button><button type="button" class="btn btn-danger btnDelete" data-key="' + x.complainID + '"><i class="fa fa-trash"></i> Delete</button></td>';
+                            xyz +=  '<td><button type="button" class="btn btn-secondary sm btnUpdateStatus me-2" data-key="' + x.complainId + '"><i class="fa fa-eye"></i> Update Status</button>';
                             xyz +=  '</tr>';
                         })
 
                         $(".data-list").html(xyz);
+
+                        $(".dataTable").DataTable();
                     }
                     else {
                         toastr["error"](res.message, "ERROR")
@@ -293,6 +337,106 @@
                     $.unblockUI();
                 }
             })
+        }
+
+        function loadComplainStatus(){
+            $.ajax({
+                method: 'get',
+                contentType:  "application/json; charset=utf-8",
+                url: '@Url.Action("GetAllData", "ComplainStatus")',
+                success: function(res){
+                    if(res.success){
+                        var data = res.data;
+
+                        var xyz = '<option value=0>--select--</option>'
+                        $.each(data, function(i, x ){
+                            xyz += '<option value = ' + x.complainStatusID +'>' + x.complainStatusName + '</option>';
+                        })
+                    }
+
+                    $('.ddlComplainStatus').html(xyz);
+                }
+            })
+        }
+
+        function loadComplainType() {
+            $.ajax({
+                methodType: 'get',
+                contentType: "application/json; charset=utf-8",
+                url: '@Url.Action("GetAllData", "ComplainType")',
+                success: function (res) {
+                    if (res.success) {
+                        var data = res.data;
+
+                        var xyz = '<option value=0>--select--</option>';
+                        $.each(data, function (i, x) {
+                            xyz += '<option value=' + x.complainTypeId + '>' + x.complainTypeName + '</option>';
+                        });
+                        $('.ddlComplainType').html(xyz);
+
+                    }
+                }
+            })
+        }
+
+         $(document).on('click', '.btnUpdateStatusSave', function() {
+
+            // var id = setKeyValue();
+
+            var obj = {
+                complainStatusID : $('.ddlComplainStatus').val() || 0,
+                remarks : $('.txtRemarks').val() || '',
+                complainID : $('.UpdatehdnId').val() || 0,
+                createdBy : 0,
+                createdDate : ''
+            }
+
+
+            if(obj.complainStatusID == 0){
+                toastr["error"]("Please select your complain status", "Error")
+            }
+            else if(obj.remarks == ''){
+                toastr["error"]("Please give some remarks", "Error")
+            }
+            else{
+                $.ajax({
+                    method : 'post',
+                    contentType: "application/json; charset=utf-8",
+                    url: "@Url.Action("UpdateStatus", "Complain")",
+                    data: JSON.stringify(obj),
+                    success: function(res){
+                        if(res.success){
+                            toastr["success"]("Status updated successfully.")
+                            clearUpdateForm();
+                            $('#mdlSetupForStatus').modal('hide');
+
+                        }
+                        else{
+                             toastr["error"]("Status could not be updated")
+                        }
+                    }
+                })
+            }
+        });
+
+        $(document).on('click', '.btnUpdateStatus', function() {
+          var id = $(this).data("key");
+          $('#mdlSetupForStatus').modal('show');
+          $('.UpdatehdnId').val(id);
+        })
+
+        $(document).on('click','.btnUpdateStatusClose', function(){
+        var userResponse = confirm("Are you sure you want to clear form?");
+
+            if(userResponse){
+                clearUpdateForm();
+                $('#mdlSetupForStatus').modal('hide');
+            }
+        });
+
+        function clearUpdateForm(){
+            complainStatusID : $('.ddlComplainStatus').val(0);
+            remarks : $('.txtRemarks').val('');
         }
     </script>
 }
