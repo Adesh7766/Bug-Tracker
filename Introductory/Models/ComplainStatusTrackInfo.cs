@@ -21,6 +21,6 @@ namespace Introductory.Models
         public virtual ComplainStatus ComplainStatus { get; set; }
 
         [ForeignKey("CreatedBy")]
-        public virtual Users User { get; set; }
+        public virtual Users Users { get; set; }
     }
 }

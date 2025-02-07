@@ -47,7 +47,7 @@ namespace Introductory.Migrations
                     b.Property<int>("CustomerId")
                         .HasColumnType("int");
 
-                    b.Property<string>("FullNme")
+                    b.Property<string>("FullName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -96,6 +96,8 @@ namespace Introductory.Migrations
 
                     b.HasKey("ComplainStatusID");
 
+                    b.HasIndex("CreatedBy");
+
                     b.ToTable("ComplainStatus");
                 });
 
@@ -128,6 +130,8 @@ namespace Introductory.Migrations
                     b.HasIndex("ComplainID");
 
                     b.HasIndex("ComplainStatusID");
+
+                    b.HasIndex("CreatedBy");
 
                     b.ToTable("ComplainStatusTrackInfo");
                 });
@@ -259,6 +263,17 @@ namespace Introductory.Migrations
                     b.Navigation("ComplainType");
                 });
 
+            modelBuilder.Entity("Introductory.Models.ComplainStatus", b =>
+                {
+                    b.HasOne("Introductory.Models.Users", "Users")
+                        .WithMany()
+                        .HasForeignKey("CreatedBy")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Users");
+                });
+
             modelBuilder.Entity("Introductory.Models.ComplainStatusTrackInfo", b =>
                 {
                     b.HasOne("Introductory.Models.Complain", "Complain")
@@ -273,9 +288,17 @@ namespace Introductory.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Introductory.Models.Users", "Users")
+                        .WithMany()
+                        .HasForeignKey("CreatedBy")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
                     b.Navigation("Complain");
 
                     b.Navigation("ComplainStatus");
+
+                    b.Navigation("Users");
                 });
 
             modelBuilder.Entity("Introductory.Models.UserGroup", b =>

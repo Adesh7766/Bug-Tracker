@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Introductory.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20250124072907_PK and FK added")]
-    partial class PKandFKadded
+    [Migration("20250207160136_UpdateDeleteBehavior")]
+    partial class UpdateDeleteBehavior
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -50,7 +50,7 @@ namespace Introductory.Migrations
                     b.Property<int>("CustomerId")
                         .HasColumnType("int");
 
-                    b.Property<string>("FullNme")
+                    b.Property<string>("FullName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -66,6 +66,8 @@ namespace Introductory.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ComplainId");
+
+                    b.HasIndex("ComplainTypeId");
 
                     b.ToTable("Complain");
                 });
@@ -96,6 +98,8 @@ namespace Introductory.Migrations
                         .HasColumnType("bit");
 
                     b.HasKey("ComplainStatusID");
+
+                    b.HasIndex("CreatedBy");
 
                     b.ToTable("ComplainStatus");
                 });
@@ -129,6 +133,8 @@ namespace Introductory.Migrations
                     b.HasIndex("ComplainID");
 
                     b.HasIndex("ComplainStatusID");
+
+                    b.HasIndex("CreatedBy");
 
                     b.ToTable("ComplainStatusTrackInfo");
                 });
@@ -249,6 +255,28 @@ namespace Introductory.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("Introductory.Models.Complain", b =>
+                {
+                    b.HasOne("Introductory.Models.ComplainType", "ComplainType")
+                        .WithMany()
+                        .HasForeignKey("ComplainTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ComplainType");
+                });
+
+            modelBuilder.Entity("Introductory.Models.ComplainStatus", b =>
+                {
+                    b.HasOne("Introductory.Models.Users", "Users")
+                        .WithMany()
+                        .HasForeignKey("CreatedBy")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Users");
+                });
+
             modelBuilder.Entity("Introductory.Models.ComplainStatusTrackInfo", b =>
                 {
                     b.HasOne("Introductory.Models.Complain", "Complain")
@@ -263,9 +291,17 @@ namespace Introductory.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Introductory.Models.Users", "Users")
+                        .WithMany()
+                        .HasForeignKey("CreatedBy")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
                     b.Navigation("Complain");
 
                     b.Navigation("ComplainStatus");
+
+                    b.Navigation("Users");
                 });
 
             modelBuilder.Entity("Introductory.Models.UserGroup", b =>

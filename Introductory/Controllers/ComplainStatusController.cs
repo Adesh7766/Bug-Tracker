@@ -169,6 +169,26 @@ namespace Introductory.Controllers
         }
 
         [HttpGet]
+        public JsonResult GetComplainStatus()
+        {
+            List <ComplainStatusVM> dbData = _applicationDBContext
+                                          .ComplainStatus
+                                          .Where(x => x.IsActive == true)
+                                          .Select(s => new ComplainStatusVM
+                                          {
+                                              ComplainStatusID = s.ComplainStatusID.ToInt32(),
+                                              ComplainStatusName = s.ComplainStatusName.ToText()
+                                          })
+                                          .ToList();
+
+            return Json(new
+            {
+                Success = true,
+                Data = dbData
+            });
+        }
+
+        [HttpGet]
         public JsonResult GetComplainByID(int key)
         {
             var dbData = _applicationDBContext

@@ -36,7 +36,7 @@ namespace Introductory.Controllers
                                                          Remarks = x.Remarks.ToText(),
                                                          CreatedBy = x.CreatedBy.ToInt32(),
                                                          CreatedDate = x.CreatedDate.ToNepaliDate().ToText(),
-                                                         Created_By = x.User.Username.ToText(),
+                                                         Created_By = x.Users.Username.ToText(),
                                                          ComplainStatus = x.ComplainStatus.ComplainStatusName.ToText()
                                                      })
                                                      .ToList();
