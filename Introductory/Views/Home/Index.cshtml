@@ -708,11 +708,8 @@
                             var userGroupNameOnly = userGroup.map(x => x.name);    
 
                             var count = [];
-                            
-                            debugger;
 
                             $.each(users, function(i, x){
-                                debugger;
                                 var userCount = users.filter(y => y.userGroupId == x.userGroupId)
                                 count.push(userCount.length)
                             })
@@ -789,8 +786,7 @@
                             debugger;
 
                             $.each(complains, function(i, x){
-                                debugger;
-                                var complainCount = complains.filter(y => y.complainTypeId == x.complainTypeID)
+                            var complainCount = complains.filter(y => y.complainTypeId == x.complainTypeId)
                                 count.push(complainCount.length)
                             })
 
@@ -821,7 +817,7 @@
                 yAxis: {
                     min: 0,
                     title: {
-                        text: 'Complain Type'
+                        text: 'Complains'
                     }
                 },
                 plotOptions: {
@@ -832,7 +828,7 @@
                 },
                 series: [
                     {
-                        name: 'Complain Type',
+                        name: 'Complains Type',
                         data: count
                     }
                 ]
